@@ -5,16 +5,22 @@ Neste projeto será desenvolvido um dashboard de e-commerce, onde poderemos real
 
 ## Primeiras tarefas
 1. Configuração da stack  
-    - [] Vitest
+    - [x] Vitest
     - [x] React + Typescript
-    - [] Axios
-    - [] React Query
-    - [] React Router
-    - [] Zod
-    - [] shadcn-ui
-    - [] tailwind
+    - [x] Axios
+    - [x] React Query
+    - [x] React Router
+    - [x] Zod
+    - [x] shadcn-ui
+    - [x] tailwind
+    - [x] react hook form
+    - [x] husky
+    - [] eslint
+    - [] prettier
     - [] fake store api
 2. Criar tema com cores
+3. Configurar o axios
+4. Configurar roteamento
 
 
 <!-- Gostei dessa cor:
